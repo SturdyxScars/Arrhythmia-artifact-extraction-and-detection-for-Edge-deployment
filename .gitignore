@@ -1,0 +1,11 @@
+.venv/
+src/
+.idea/
+__pycache__/
+mit-bih-arrhythmia-database-1.0.0/
+pyproject.toml
+eda_results.png
+eda_detailed.py
+data_knowledge.md
+realtime_detection.py
+realtime_sim.png
